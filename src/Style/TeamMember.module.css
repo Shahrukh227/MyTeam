@@ -1,0 +1,26 @@
+.teamMember{
+  width: 60%;
+  margin: 50px auto;
+  background-color: black;
+  height: 100vh;
+  border-radius: 10px;
+  color: whitesmoke;
+  padding: 10px;
+}
+
+.teamMember .team{
+  border: 1px solid white;
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.collapsed{
+  display: none;
+}
+
+.member{
+  border: 1px solid whitesmoke;
+  margin: 10px 0;
+  padding: 10px 0;
+}

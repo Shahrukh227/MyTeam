@@ -1,0 +1,20 @@
+.Employee{
+  display: inline-block;
+  max-width: 200px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.Employee img{
+  border-radius: 20px ;
+}
+
+.Employee .text{
+  width: 150px;
+}
+
+.teamName{
+  border: 1px solid black;
+  box-shadow: 0 0 10px black;
+  border-radius: 20px;
+}
